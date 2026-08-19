@@ -3,7 +3,7 @@
 This is readme file
 the best ways are:
 -Eat
--Seep
+-Sleep
 -Code
 -Repeat
 
