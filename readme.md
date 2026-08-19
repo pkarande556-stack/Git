@@ -4,5 +4,5 @@ This is readme file
 the best ways are:
 -Eat
 -Seep
--Cde
+-Code
 -Repeat
